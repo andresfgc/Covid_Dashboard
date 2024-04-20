@@ -6,13 +6,13 @@ This is a Data Analyst project focused on showing the spread of the Covid-19 unt
 
 ## Table of Contents
 
-- [Heritage Housing Issues](#covid-dashboard)
+- [Covid Dashboard](#covid-dashboard)
   - [Table of Contents](#table-of-contents)
   - [Dataset Content](#dataset-content)
   - [Terms and Jargons](#terms-and-jargons)
-  - [Business Requirements](#case-requirements)
+  - [Case Requirements](#case-requirements)
   - [Deployment](#deployment)
-    - [Heroku](#tableau)
+    - [Tableau](#tableau)
 
 ## Dataset Content
 
