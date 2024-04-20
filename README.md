@@ -2,7 +2,7 @@
 
 This is a Data Analyst project focused on showing the spread of the Covid-19 until april 2024.
 
-![Dashboard](/media)
+![Dashboard](/Dashboard_covid.jpg)
 
 ## Table of Contents
 
