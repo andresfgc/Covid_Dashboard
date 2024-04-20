@@ -41,7 +41,7 @@ Scientists want to understand the impact of Covid-19 worldwide in 2024.
 
 - 1 - The scientist is interested in understading how deadly it is.
 - 2 - The scientist is interested in knowing the infected population worldwide.
-- 2 - The scientist is interested in seeing its spread over time.
+- 3 - The scientist is interested in seeing its spread over time.
 
 ## Deployment
 
